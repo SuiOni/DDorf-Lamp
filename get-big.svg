@@ -22,13 +22,13 @@ var _GWMLegendGroup = [
 <feComposite in="SourceGraphic" in2="outline"/>
 </filter>
 <path d="M0 0l1 0 0 1-1 0zM2 1l1 0 0 1-1 0z" id="_P9"/>
-<pattern id="_V1x3k8a" patternUnits="userSpaceOnUse" x="0" y="0" width="4" height="2" style="stroke:none;fill:#3399ff">
+<pattern id="_V1x3k8a" patternUnits="userSpaceOnUse" x="0" y="0" width="4" height="2" style="stroke:none;fill:#831400">
 <use xlink:href="#_P9"/>
 </pattern>
 <pattern id="_P9-H-" patternUnits="userSpaceOnUse" x="0" y="0" width="4" height="2" style="stroke:none;fill:#00ffff">
 <use xlink:href="#_P9"/>
 </pattern>
-<pattern id="_V1x3k8a" patternUnits="userSpaceOnUse" x="0" y="0" width="4" height="2" style="stroke:none;fill:#3399ff">
+<pattern id="_V1x3k8a" patternUnits="userSpaceOnUse" x="0" y="0" width="4" height="2" style="stroke:none;fill:#831400">
 <use xlink:href="#_P9"/>
 </pattern>
 <pattern id="_P9-S-" patternUnits="userSpaceOnUse" x="0" y="0" width="4" height="2" style="stroke:none;fill:#00ff00">
@@ -118,7 +118,7 @@ stroke-width:1px;
 pointer-events:none;}
 .V1x3k8b
 {
-stroke:#3399ff;
+stroke:#831400;
 fill:none;
 stroke-width:1.33333px;
 stroke-linecap:round;
@@ -135,7 +135,7 @@ stroke-linejoin:round;
 pointer-events:none;}
 .V1x3k8b-S-
 {
-stroke:#00ff00;
+stroke:#831400;
 fill:none;
 stroke-opacity:0.501961;
 stroke-width:1.33333px;
@@ -165,6 +165,7 @@ pointer-events:none;}
 </mask>
 <g id="_GWMAll" gmwmsvg:typ="a" mask="url(#gwmmask)">
 <metadata><gmwmsvg:metadata id="_GWMMetadata" gmwmsvg:storageoffsetx="323855.269013479580000" gmwmsvg:storageoffsety="5683872.989447792100000" gmwmsvg:storagetoreadoutscale="1.000000000000000" gmwmsvg:readoutoffsetx="0.000000000000000" gmwmsvg:readoutoffsety="0.000000000000000" gmwmsvg:readoutunit="m" gmwmsvg:storagetodistancescale="1.000000000000000" gmwmsvg:distanceunit="m" gmwmsvg:displaytostoragescale="0.176865197311067" gmwmsvg:rotationangle="0.000000000000000" gmwmsvg:version="2.0"/></metadata>
+<rect id="gwmbg" x="-90140" y="-29360" width="189294" height="61656" style="fill:#ffffff;stroke:none;opacity:0.000000000000000;"/>
 <g id="10" gmwmsvg:typ="l">
 <use xlink:href="#V1x3k8bb" id="V1x3k8bb.0" class="V1x3k8a"/>
 <use xlink:href="#V1x3k8bb" id="V1x3k8bb.1" class="V1x3k8b"/>
